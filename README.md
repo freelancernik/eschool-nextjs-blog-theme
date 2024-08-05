@@ -3,8 +3,9 @@
 
 [![Deploy to Netlify Button](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/netlify-templates/nextjs-blog-theme)
 
+![1000033195.jpg](images/1722819332062_1000033195.jpg)
 
-A customizable blog starter using:
+A **customizable** blog starter using:
 
 - [Next.js](https://github.com/vercel/next.js) v14 (Pages Router)
 - [Tailwind](https://tailwindcss.com/) v3.0
